@@ -1,0 +1,17 @@
+
+Pods
+build
+xcuserdata
+
+.patchapp.cache/**
+Dylibs/**
+*.ipa
+frameworks/**
+PokemonGoHacking/build/**
+PokemonGoHacking/DerivedData/**
+DYLIBS_swift/**
+
+fastlane/README.md
+fastlane/report.xml
+
+*.mobileprovision
