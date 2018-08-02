@@ -16,4 +16,4 @@
 2. Download mobileprovision file.
 2. Edit fastlane/Fastlane to fill the signing_identity and provisioning_profile.
 3. Run `./do_all.sh` in shell.
-6. The new created \*-patch.ipas are flex injected and resigned. Install them to you devices.
+6. The newly created \*-patch.ipas are flex injected and resigned. Install them to your devices.
